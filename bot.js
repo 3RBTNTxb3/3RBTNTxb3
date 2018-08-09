@@ -28,4 +28,5 @@ client.user.setGame(`Nothing`,"http://twitch.tv/S-F")
   console.log('')
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(NDc2ODQ1NTE0MDAwODI2Mzgw.Dk2AgQ.G33Cxg9x5jdpl6V6HIM50GJs2Uk
+);
